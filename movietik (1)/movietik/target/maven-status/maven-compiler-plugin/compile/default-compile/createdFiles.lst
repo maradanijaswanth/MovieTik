@@ -1,0 +1,4 @@
+com\tktbooking\movietik\entity\LoginEntity.class
+com\tktbooking\movietik\controller\LoginController.class
+com\tktbooking\movietik\MovietikApplication.class
+com\tktbooking\movietik\ServletInitializer.class
